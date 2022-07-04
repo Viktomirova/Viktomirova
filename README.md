@@ -1,11 +1,6 @@
 # From everything that can be known, we need to know the essentials. For everything else - there is documentation.
 
 
-# ![WebDeveloperMycrxnGIF](file:///C:/Users/Viktomirova/Downloads/MicrosoftWindows.Client.CBS_cw5n1h2txyewy!InputApp/CwcRainbowFactoryGIF.gif)
-
-
-
-
 👋  Hi there! 😊
 
 - 🌱 I’m currently learning C# and some QA 🐝

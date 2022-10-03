@@ -21,4 +21,4 @@
 ![](https://github.com/Viktomirova/Certificates/blob/main/CertQaFund.jpg) ![](https://github.com/Viktomirova/Certificates/blob/main/CertQaAut.jpeg)
 
 # Followed
-![](https://github.com/BG-IT-Edu)
+![](https://github.com/BG-IT-Edu.jpg)

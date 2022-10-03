@@ -19,3 +19,6 @@
 ![](https://github.com/Viktomirova/Certificates/blob/main/CertCsFund.jpg) ![](https://github.com/Viktomirova/Certificates/blob/main/CertCsAdvanced.jpg)
 ![](https://github.com/Viktomirova/Certificates/blob/main/CertCsOop.jpg) ![](https://github.com/Viktomirova/Certificates/blob/main/CertCsSql.jpg)
 ![](https://github.com/Viktomirova/Certificates/blob/main/CertQaFund.jpg) ![](https://github.com/Viktomirova/Certificates/blob/main/CertQaAut.jpeg)
+
+# Followed
+![](https://github.com/BG-IT-Edu)

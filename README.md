@@ -4,7 +4,7 @@
 👋  Hi there! 😊
 
 
-- 📫 How to reach me: [![icons8-facebook-48](https://user-images.githubusercontent.com/86418476/177218107-87f44438-b3c9-4308-b6f5-83f7ceb7f845.png)](https://www.facebook.com/svetlana.viktomirova/) [![icons8-instagram-48](https://user-images.githubusercontent.com/86418476/177217916-69ddbc17-99de-4836-b818-dd2099257f09.png)](https://www.instagram.com/viktomirova/?hl=bg) [![icons8-linkedin-48](https://user-images.githubusercontent.com/86418476/177217934-4cb5ced5-7896-4ca8-bf4c-28001eeb37e9.png)](https://www.linkedin.com/in/svetlana-viktomirova-701b96237/) [![icons8-mail-48](https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-gmail-is-a-free-email-service-developed-by-google-logo-color-tal-revivo.png)](mailto:viktomirova@gmail.com)
+- 📫 How to reach me: [![icons8-mail-48]([https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-gmail-is-a-free-email-service-developed-by-google-logo-color-tal-revivo.png)](https://drive.google.com/drive/my-drive)](mailto:viktomirova@gmail.com)
 - 💬 Ask me about anything - I am always ready to help if I can 💯
 - 🌱 I’m currently learning C# and some QA 🐝
 - ⚡ Fun fact: I haven't given up yet 😎

@@ -16,7 +16,7 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=viktomirova&show_icons=true&theme=dracula&layout=compact)](https://github.com/viktomirova/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktomirova&show_icons=true&theme=dracula&layout=compact)](https://github.com/viktomirova/github-readme-stats)
 
 # 🎓 My Certificates
-<img width="200" height="400" alt="AI" src="https://github.com/user-attachments/assets/b9591dea-97a9-45f8-b0ef-c03123c26059" />
 <img width="200" height="400" alt="QA" src="https://github.com/user-attachments/assets/40fb60a9-333d-4d83-b3aa-81bfabe25f10" />
+<img width="200" height="400" alt="AI" src="https://github.com/user-attachments/assets/b9591dea-97a9-45f8-b0ef-c03123c26059" />
 <img width="200" height="400" alt="CSharpOOP" src="https://github.com/user-attachments/assets/d6760671-203a-4c37-a653-de0cb8c3a46d" />
 <img width="200" height="400" alt="MSSQL" src="https://github.com/user-attachments/assets/fd8e0398-3b07-4fb0-9f46-b8e4414d9c29" />

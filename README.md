@@ -16,8 +16,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=viktomirova&show_icons=true&theme=dracula&layout=compact)](https://github.com/viktomirova/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktomirova&show_icons=true&theme=dracula&layout=compact)](https://github.com/viktomirova/github-readme-stats)
 
 # 🎓 My Certificates
-![](https://github.com/Viktomirova/Certificates/blob/main/CertCsFund.jpg) ![](https://github.com/Viktomirova/Certificates/blob/main/CertCsAdvanced.jpg)
 ![](https://github.com/Viktomirova/Certificates/blob/main/CertCsOop.jpg) ![](https://github.com/Viktomirova/Certificates/blob/main/CertCsSql.jpg)
-![](https://github.com/Viktomirova/Certificates/blob/main/CertQaFund.jpg) ![](https://github.com/Viktomirova/Certificates/blob/main/CertQaAut.jpeg)
 
 

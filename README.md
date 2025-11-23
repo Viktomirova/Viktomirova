@@ -4,7 +4,7 @@
 👋  Hi there! 😊
 
 
-- 📫 How to reach me: [![icons8-mail](https://github.com/user-attachments/assets/73a61f2f-76e8-40ef-bb79-0354099668f8)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvLzwbQgjjnCmbqbwzbJGtnbJVDgmZDHrVXCxFVvCzJFWFRXmPQRPzqxHnLvSvdsQSdq) [![icons8-linkedin-48](https://github.com/user-attachments/assets/8dfebb5e-d07c-4ca2-8954-168c291f266a)](https://www.linkedin.com/in/svetlana-viktomirova-701b96237/)
+- 📫 How to reach me: [![icons8-mail](https://github.com/user-attachments/assets/89d7555a-f46b-425b-b78c-ba52f44f435e)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvLzwbQgjjnCmbqbwzbJGtnbJVDgmZDHrVXCxFVvCzJFWFRXmPQRPzqxHnLvSvdsQSdq) [![icons8-linkedin-48](https://github.com/user-attachments/assets/8dfebb5e-d07c-4ca2-8954-168c291f266a)](https://www.linkedin.com/in/svetlana-viktomirova-701b96237/)
 
 
 - 💬 Ask me about anything - I am always ready to help if I can 💯

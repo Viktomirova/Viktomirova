@@ -4,7 +4,8 @@
 👋  Hi there! 😊
 
 
-- 📫 How to reach me: [![icons8-mail-48](https://github.com/user-attachments/assets/56ae9cfc-8b8b-4517-8e52-9a643974333a)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvLzwbQgjjnCmbqbwzbJGtnbJVDgmZDHrVXCxFVvCzJFWFRXmPQRPzqxHnLvSvdsQSdq) [![icons8-linkedin-48]([https://github.com/user-attachments/assets/56ae9cfc-8b8b-4517-8e52-9a643974333a](https://github.com/user-attachments/assets/8dfebb5e-d07c-4ca2-8954-168c291f266a))](https://www.linkedin.com/in/svetlana-viktomirova-701b96237/)
+- 📫 How to reach me: [![icons8-mail-48](https://github.com/user-attachments/assets/56ae9cfc-8b8b-4517-8e52-9a643974333a)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvLzwbQgjjnCmbqbwzbJGtnbJVDgmZDHrVXCxFVvCzJFWFRXmPQRPzqxHnLvSvdsQSdq) [![icons8-linkedin-48](https://github.com/user-attachments/assets/56ae9cfc-8b8b-4517-8e52-9a643974333a](https://github.com/user-attachments/assets/8dfebb5e-d07c-4ca2-8954-168c291f266a))](https://www.linkedin.com/in/svetlana-viktomirova-701b96237/)
+
 
 - 💬 Ask me about anything - I am always ready to help if I can 💯
 - 🌱 I’m currently learning C# and some JS 🐝

@@ -16,8 +16,8 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=viktomirova&show_icons=true&theme=dracula&layout=compact)](https://github.com/viktomirova/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktomirova&show_icons=true&theme=dracula&layout=compact)](https://github.com/viktomirova/github-readme-stats)
 
 # 🎓 My Certificates
-<img width="780" height="1122" alt="MSSQL" src="https://github.com/user-attachments/assets/fd8e0398-3b07-4fb0-9f46-b8e4414d9c29" />
-<img width="780" height="1122" alt="CSharpOOP" src="https://github.com/user-attachments/assets/d6760671-203a-4c37-a653-de0cb8c3a46d" />
-<img width="780" height="1122" alt="QA" src="https://github.com/user-attachments/assets/ec9f3321-523b-4551-b560-4b129cbe78f0" />
-<img width="780" height="1122" alt="AI" src="https://github.com/user-attachments/assets/40fb60a9-333d-4d83-b3aa-81bfabe25f10" />
+<img width="400" height="600" alt="QA" src="https://github.com/user-attachments/assets/ec9f3321-523b-4551-b560-4b129cbe78f0" />
+<img width="400" height="600" alt="AI" src="https://github.com/user-attachments/assets/40fb60a9-333d-4d83-b3aa-81bfabe25f10" />
+<img width="400" height="600" alt="CSharpOOP" src="https://github.com/user-attachments/assets/d6760671-203a-4c37-a653-de0cb8c3a46d" />
+<img width="400" height="600" alt="MSSQL" src="https://github.com/user-attachments/assets/fd8e0398-3b07-4fb0-9f46-b8e4414d9c29" />
 

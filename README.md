@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: [![icons8-mail-48](https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-gmail-is-a-free-email-service-developed-by-google-logo-color-tal-revivo.png)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJftvLzwbQgjjnCmbqbwzbJGtnbJVDgmZDHrVXCxFVvCzJFWFRXmPQRPzqxHnLvSvdsQSdq)
 - 💬 Ask me about anything - I am always ready to help if I can 💯
-- 🌱 I’m currently learning C# and some QA 🐝
+- 🌱 I’m currently learning C# and some JS 🐝
 - ⚡ Fun fact: I haven't given up yet 😎
 - 👉 Follow me!  
 
